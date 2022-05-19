@@ -12,9 +12,6 @@ The project is undergoing daily changes. Pull Requests will be reviewed and resp
 
 (You must have submitted a [signed CLA](https://github.com/aptos-labs/aptos-core/blob/main/CONTRIBUTING.md#contributor-license-agreement) that includes your GitHub handle prior to us accepting and landing your work. Write your answer here.)
 
-## Test Plan
-
-(Share your test plan here. If you changed code, please provide us with clear instructions for verifying that your changes work.)
 
 ## Related PRs
 
